@@ -1,7 +1,7 @@
 package factorial;
 
 
-public class AveriguaUmbral {
+public class AveriguaUmbralFactorial {
 
     public static void main(String[] args) {
         Factorial f = new Factorial();
